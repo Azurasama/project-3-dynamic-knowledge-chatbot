@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "name": "Local Demonstration Source",
+      "url": "http://localhost:8000/index.html",
+      "type": "web"
+    }
+  ]
+}
